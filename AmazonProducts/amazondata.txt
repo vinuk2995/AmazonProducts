@@ -1,0 +1,7 @@
+mobile;mi;prime;15000;
+laptop;HP;nonprime;40000;
+Washing Machine;Onida;prime;8000;
+mobile;samsung;prime;5000;
+laptop;lenovo;prime;30000;
+Tv;onida;prime;6000;
+mobile;onplus;nonprime;29000;
